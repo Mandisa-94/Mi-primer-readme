@@ -46,4 +46,6 @@ git push origin master
 
 [sintaxis de Markdown](https://markdown.es/sintaxis-markdown/)
 
-! [la imagen](https://img.lavoz.com.ar/sites/default/files/styles/landscape_1170_658/public/nota_periodistica/playa_del_carmen_1574446161.jpg)
+![la imagen](https://img.lavoz.com.ar/sites/default/files/styles/landscape_1170_658/public/nota_periodistica/playa_del_carmen_1574446161.jpg)
+
+[ver la guia completa de como hacer un Markdown]()
